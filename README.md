@@ -13,15 +13,15 @@
 <div style="display:flex; justify-content: space-around;">
     <a href="https://youtu.be/b3Ym69arLGw" target="_blank" style="width:33.33%;">
         <img src="https://img.youtube.com/vi/b3Ym69arLGw/0.jpg" alt="spark-tts" style="width: 300px; height: 200px;">
-        <div style="text-align:center" style="width:33.33%;">Spark TTS</div>
+        <span style="text-align:center" style="width:33.33%;">Spark TTS</span>
     </a>
     <a href="https://youtu.be/DhERLlXPK6I" target="_blank" style="width:33.33%;">
         <img src="https://img.youtube.com/vi/DhERLlXPK6I/0.jpg" alt="3d" style="width: 300px; height: 200px;">
-        <div style="text-align:center" style="width:33.33%;">3D</div>
+        <span style="text-align:center" style="width:33.33%;">3D</span>
     </a>
     <a href="https://youtu.be/p4cl-FNlW8I" target="_blank" style="width:33.33%;">
         <img src="https://img.youtube.com/vi/p4cl-FNlW8I/0.jpg" alt="jimeng" style="width: 300px; height: 200px;">
-        <div style="text-align:center" style="width:33.33%;">JiMengAI</div>
+        <span style="text-align:center" style="width:33.33%;">JiMengAI</span>
     </a>
 </div>
 
