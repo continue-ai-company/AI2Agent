@@ -8,7 +8,7 @@
 
 </div>
 
-### Install Agent
+### 📦 Install Agent
 
 <div align="center">
 
@@ -21,7 +21,6 @@
 | [Spark TTS](https://youtu.be/b3Ym69arLGw) | [3D](https://youtu.be/DhERLlXPK6I) | [JiMengAI](https://youtu.be/p4cl-FNlW8I) |
 |---|---|---|
 | [![spark-tts](https://img.youtube.com/vi/b3Ym69arLGw/0.jpg)](https://youtu.be/b3Ym69arLGw) | [![3d](https://img.youtube.com/vi/DhERLlXPK6I/0.jpg)](https://youtu.be/DhERLlXPK6I) | [![jimeng](https://img.youtube.com/vi/p4cl-FNlW8I/0.jpg)](https://youtu.be/p4cl-FNlW8I) |
-
 
 ### Get More
 
