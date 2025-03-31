@@ -11,17 +11,14 @@
 ###  Use Agent
 
 <div style="display:flex; justify-content: space-around;">
-    <a href="https://youtu.be/b3Ym69arLGw" target="_blank" style="width:33.33%;">
-        <img src="https://img.youtube.com/vi/b3Ym69arLGw/0.jpg" alt="spark-tts" style="width: 300px; height: 200px;">
-        <span style="text-align:center" style="width:33.33%;">Spark TTS</span>
+    <a href="https://youtu.be/b3Ym69arLGw" target="_blank" >
+        <img src="https://img.youtube.com/vi/b3Ym69arLGw/0.jpg" alt="spark-tts" >
     </a>
-    <a href="https://youtu.be/DhERLlXPK6I" target="_blank" style="width:33.33%;">
-        <img src="https://img.youtube.com/vi/DhERLlXPK6I/0.jpg" alt="3d" style="width: 300px; height: 200px;">
-        <span style="text-align:center" style="width:33.33%;">3D</span>
+    <a href="https://youtu.be/DhERLlXPK6I" target="_blank" >
+        <img src="https://img.youtube.com/vi/DhERLlXPK6I/0.jpg" alt="3d" >
     </a>
-    <a href="https://youtu.be/p4cl-FNlW8I" target="_blank" style="width:33.33%;">
-        <img src="https://img.youtube.com/vi/p4cl-FNlW8I/0.jpg" alt="jimeng" style="width: 300px; height: 200px;">
-        <span style="text-align:center" style="width:33.33%;">JiMengAI</span>
+    <a href="https://youtu.be/p4cl-FNlW8I" target="_blank" >
+        <img src="https://img.youtube.com/vi/p4cl-FNlW8I/0.jpg" alt="jimeng" >
     </a>
 </div>
 
