@@ -1,32 +1,54 @@
 # AI2Agent
 
-### Automatic Deployment
+## Getting Started
 
-<div align="center">
+### AutoDeploy Agent
 
-[![developing](https://img.youtube.com/vi/r5VP8bDLD9s/0.jpg)](https://youtu.be/r5VP8bDLD9s)
+We only need one sentence to use the `AutoDeploy Agent` to deploy the github open-source project for us.
 
-</div>
+#### Install Agent
 
-### Install Agent
+To install `AutoDeploy Agent`, we need to click the download icon in `AutoDeploy Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully installed.
 
-<div align="center">
+<img src="./assets/dashboard.png" alt="dashboard" />
 
-[![tool mart](https://img.youtube.com/vi/x-q4Jc4Zukc/0.jpg)](https://youtu.be/x-q4Jc4Zukc)
+#### Use Agent
 
-</div>
+AutoDeploy Agent video
 
-### Use Agent
+#### Update Agent
 
-| [Spark TTS](https://youtu.be/b3Ym69arLGw) | [3D](https://youtu.be/DhERLlXPK6I) | [JiMengAI](https://youtu.be/p4cl-FNlW8I) |
-|---|---|---|
-| [![spark-tts](https://img.youtube.com/vi/b3Ym69arLGw/0.jpg)](https://youtu.be/b3Ym69arLGw) | [![3d](https://img.youtube.com/vi/DhERLlXPK6I/0.jpg)](https://youtu.be/DhERLlXPK6I) | [![jimeng](https://img.youtube.com/vi/p4cl-FNlW8I/0.jpg)](https://youtu.be/p4cl-FNlW8I) |
+To update `AutoDeploy Agent`, we need to click the update icon in `AutoDeploy Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully updated.
 
-### Build Agent
+#### Delete Agent
+
+To delete `AutoDeploy Agent`, we need to click the delete icon in `AutoDeploy Agent` moudle.
+
+<!-- ### DeepResearch Agent
+
+We only need one sentence to use the `DeepResearch Agent` to browse the latest news and information.
+
+#### Install Agent
+
+To install `DeepResearch Agent`, we need to click the download icon in `DeepResearch Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully installed.
+
+#### Use Agent
+
+DeepResearch Agent video
+
+#### Update Agent
+
+To update `DeepResearch Agent`, we need to click the update icon in `DeepResearch Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully updated.
+
+#### Delete Agent
+
+To delete `DeepResearch Agent`, we need to click the delete icon in `DeepResearch Agent` moudle. -->
+
+## Build Agent
 
 If you want to build an agent yourself, you can refer to the [AgentBuilder](https://github.com/Avdpro/ai2apps/tree/main/agents/AgentBuilder) codes, which is the core codes that implement agent.
 
-### Get More
+## Get More
 
 If you want to get more details about AI2Agent, please see [Ai2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md).
 
