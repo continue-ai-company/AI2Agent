@@ -1,26 +1,26 @@
 # AI2Agent
 
-## Getting Started
+<!-- ## Getting Started -->
 
-### AutoDeploy Agent
+## AutoDeploy Agent
 
 We only need one sentence to use the `AutoDeploy Agent` to deploy the github open-source project for us.
 
-#### Install Agent
+### Install Agent
 
 To install `AutoDeploy Agent`, we need to click the download icon in `AutoDeploy Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully installed.
 
 <img src="./assets/dashboard.png" alt="dashboard" />
 
-#### Use Agent
+### Use Agent
 
 AutoDeploy Agent video
 
-#### Update Agent
+### Update Agent
 
 To update `AutoDeploy Agent`, we need to click the update icon in `AutoDeploy Agent` moudle. If a green icon is displayed, it indicates that the agent has been successfully updated.
 
-#### Delete Agent
+### Delete Agent
 
 To delete `AutoDeploy Agent`, we need to click the delete icon in `AutoDeploy Agent` moudle.
 
